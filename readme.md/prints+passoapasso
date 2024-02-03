@@ -3,3 +3,7 @@ Deixe de stand by.
 
 Acesse: https://portal.vision.cognitive.azure.com/
 Crie a conte e na página principal, e acesse a aba RECONHECIMENTO ÓPTICO DE CARACTERES.
+Clique em EXTRAIA TEXTO DE IMAGENS, conforme mostrado no print2.
+Selecione o box: "Reconheço que esta demonstração..."
+Logo abaixo, arraste o arquivo ou procure uma foto do seu pc ou tire uma foto para iniciarmos o teste.
+Ao selecionar a imagem, podemos observar as marcações no texto existente nela e ao lado, o resultado do que foi reconhecido. :)
